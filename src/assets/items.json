@@ -1,0 +1,7 @@
+[
+  { "id": 0, "description": "cookies", "price": 3 },
+  { "id": 1, "description": "milk", "price": 1.5 },
+  { "id": 2, "description": "grapes", "price": 5 },
+  { "id": 3, "description": "soda", "price": 2 },
+  { "id": 4, "description": "chips", "price": 3.5 }
+]
